@@ -21,7 +21,7 @@
         <!-- dependency version variables -->
 
         <hibernate.version>5.1.0.Final</hibernate.version>
-        <resteasy.version>3.1.1.Final</resteasy.version>
+        <resteasy.version>3.14.0.Final</resteasy.version>
         <apache.common.version>3.3.2</apache.common.version>
         <junit-version>4.12</junit-version>
 
